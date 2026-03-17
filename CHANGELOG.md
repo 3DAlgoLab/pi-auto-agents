@@ -2,7 +2,7 @@
 
 ## [0.2.0] - 2026-03-17
 ### Changed
-- Updated installation method to `npm install pi-auto-agents` for better user experience
+- Updated installation method to `pi install npm:pi-auto-agents` for better user experience
 
 ## [0.1.3] - 2026-03-18
 ### Changed

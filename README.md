@@ -30,7 +30,7 @@ The `pi-auto-agents` skill automatically detects complex coding and development 
 ## Installation
 
 ```bash
-npm install pi-auto-agents
+pi install npm:pi-auto-agents
 ```
 
 This package includes the skill definition at `skills/auto-agents/SKILL.md` and will be automatically discovered by Pi.
