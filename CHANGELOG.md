@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.3] - 2026-03-18
+### Changed
+- Updated README with clear dependency warning for pi-subagents
+- Added acknowledgments section thanking pi-subagents creators
+
+## [0.1.2] - 2026-03-17
+### Fixed
+- Fixed infinite loop in npm publish script
+- Removed problematic "publish" script that caused recursion
+
 ## [0.1.1] - 2026-03-18
 ### Changed
 - Updated README.md with better documentation
