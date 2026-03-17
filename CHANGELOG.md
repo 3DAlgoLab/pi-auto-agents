@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.0] - 2026-03-17
+### Changed
+- Updated installation method to `npm install pi-auto-agents` for better user experience
+
 ## [0.1.3] - 2026-03-18
 ### Changed
 - Updated README with clear dependency warning for pi-subagents
